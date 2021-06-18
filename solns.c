@@ -51,7 +51,7 @@ int mode(int arr[], int n) {
  			ans = arr[i];
  		}
  	}
- 	return maxValue;
+ 	return ans;
 }
 
 //prime factor
